@@ -4,7 +4,7 @@ This application is made with the Django python framework.
 
 My blog
 
-Requires installation of python 3 and Django 2.2.6
+Requires installation of python 3 and Django 2.2.6 and data base sqlite3
 
 for commissioning run
 
